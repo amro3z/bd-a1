@@ -1,5 +1,5 @@
-#Big Data Assignment
-##Steps For First Time
+# Big Data Assignment
+## Steps For First Time
 * Do All Steps In bd-a1 Folder
 1. Create Docker File:
 - nano DockerFile
@@ -12,7 +12,7 @@
 5. Execut:
 - In Host -> final.sh
 - In Container -> python3 load.py "Dataset Path"
-###Steps for Secound Run
+### Steps for Secound Run
 * Do All Steps In This Path "doc-bd-a1"
 1. Run Container:
 - docker start bd-a1-container
